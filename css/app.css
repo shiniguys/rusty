@@ -232,8 +232,6 @@ ul {
       transition: 0.4s;
       font-size: 13px; }
       .header__navigation-link:hover {
-        color: white; }
-      .header__navigation-link.hot {
         background-color: #cd412b;
         border-width: 1px;
         padding: 10px 5px; }
