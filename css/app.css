@@ -230,11 +230,12 @@ ul {
       border-color: transparent;
       border-style: solid;
       transition: 0.4s;
-      font-size: 13px; }
+      font-size: 13px; 
+      border-width: 1px;
+      padding: 10px 5px; }
+    }
       .header__navigation-link:hover {
         background-color: #cd412b;
-        border-width: 1px;
-        padding: 10px 5px; }
     .header__navigation-item {
       margin-right: 10px; }
       .header__navigation-item:last-child {
